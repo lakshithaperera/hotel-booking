@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-family: 'Jost', sans-serif;
+}
+
+@keyframes fadeVisibility {
+  0% {
+    opacity: 0;
+  }
+ 
+
+
+  100% {
+    opacity: 1;
+    transform: opacity linear;
+  }
+}
